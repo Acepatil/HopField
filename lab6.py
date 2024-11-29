@@ -1,4 +1,4 @@
-[1:42 PM, 11/29/2024] Pradumya Gaurav: import random
+import random
 import numpy as np
 
 class HopfieldNetwork:
